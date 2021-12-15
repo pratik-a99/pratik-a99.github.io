@@ -1,4 +1,4 @@
-## GitHbb Page
+## GitHub Page
 
 link to page : https://pratik-a99.github.io/
 
